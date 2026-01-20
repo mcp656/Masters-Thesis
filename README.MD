@@ -13,8 +13,13 @@ high-dimensional machine learning models. Third, we document heterogeneity acros
 Insider trading enhances simple linear predictability across all firm sizes, particularly for large
 firms. In addition, among liquid stocks, insider trading adds predictive value in nonlinear models
 that appear robust to transaction costs. Overall, our results suggest that while insider signals
-contain information, this information is redundant when conditioned on the high-dimensional
-information set used in modern machine learning models
+contain information, this information is mostly redundant when conditioned on the high-dimensional
+information set used in modern machine learning models.
+\
+
+Primary Litterature:
+Gu, Kelly and Xiu (2020)
+
 
 
 
