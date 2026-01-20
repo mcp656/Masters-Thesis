@@ -37,4 +37,4 @@ In addition to the programming environments, access to CRSP data is required to 
 Finally, access to an HPC environment is recommended for running the machine learning models. We use uCloud, accessed via KU, with the following specifications:\
 \
 64 Intel cores\
-384 GB RAM}
+384 GB RAM
