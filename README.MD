@@ -15,11 +15,10 @@ firms. In addition, among liquid stocks, insider trading adds predictive value i
 that appear robust to transaction costs. Overall, our results suggest that while insider signals
 contain information, this information is mostly redundant when conditioned on the high-dimensional
 information set used in modern machine learning models.
-\
 
 Primary Litterature:
-Gu, Kelly, and Xiu (2020). "Empirical Asset Pricing via Machine Learning."
 \
+Gu, Kelly, and Xiu (2020). "Empirical Asset Pricing via Machine Learning."
 
 How to run the code:
 \
