@@ -24,7 +24,7 @@ How to run the code:
 \
 This repository contains the Python and R code used in our thesis.\
 \
-To run the code, you need both Python and R installed. Furthermore, you need access to CRSP. We recommend using the setup guides provided by tidy-finance.org:\
+To run the code, you need both Python and R installed. We recommend using the setup guides provided by tidy-finance.org:\
 \
 https://www.tidy-finance.org/python/setting-up-your-environment.html\
 https://www.tidy-finance.org/r/setting-up-your-environment.html\
