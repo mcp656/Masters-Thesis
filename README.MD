@@ -5,6 +5,7 @@ To run the code, you need both Python and R installed. We recommend using the se
 https://www.tidy-finance.org/python/setting-up-your-environment.html\
 https://www.tidy-finance.org/r/setting-up-your-environment.html\
 \
+\
 In general, the code should run on both newer and older versions of these environments. That said, future compatibility issues may arise, as pandas occasionally deprecates functions.\
 \
 In addition to the programming environments, access to CRSP data is required to run the code as intended. Please also note that some time conventions for stock data may differ between datasets.\
