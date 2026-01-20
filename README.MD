@@ -1,4 +1,4 @@
-\f0\fs24 \cf0 This repository contains the Python and R code used in our thesis.\
+This repository contains the Python and R code used in our thesis.\
 \
 To run the code, you need both Python and R installed. We recommend using the setup guides provided by tidy-finance.org:\
 \
