@@ -35,6 +35,5 @@ In general, the code should run on both newer and older versions of these enviro
 In addition to the programming environments, access to CRSP data is required to run the code as intended. Please also note that some time conventions for stock data may differ between datasets.\
 \
 Finally, access to an HPC environment is recommended for running the machine learning models. We use uCloud, accessed via KU, with the following specifications:\
-\
 64 Intel cores\
 384 GB RAM
